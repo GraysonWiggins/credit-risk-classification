@@ -1,5 +1,3 @@
-# Module 12 Report Template
-
 # Overview of the Analysis
 In this section, I will describe the analysis completed for the machine learning models used in this Challenge:
 
