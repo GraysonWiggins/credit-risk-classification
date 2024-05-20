@@ -1,20 +1,20 @@
-# Overview of the Analysis
+## Overview of the Analysis
 In this section, I will describe the analysis completed for the machine learning models used in this Challenge:
 
 
-##Purpose of the Analysis:
+## Purpose of the Analysis:
 The purpose of this analysis was to develop machine learning models to predict credit risk for loan applications.
 
-##Financial Information:
+## Financial Information:
  The data used in this analysis included various financial features such as credit scores, income levels, loan amounts, and other relevant financial metrics. The goal was to predict whether a loan application represents a healthy loan (0) or a high-risk loan (1).
 
-##Variables to Predict:
+## Variables to Predict:
  The target variable for prediction was the loan_status column, where 0 represents healthy loans and 1 represents high-risk loans.
 
-##Stages of the Machine Learning Process:
+## Stages of the Machine Learning Process:
  The analysis involved stages such as data preprocessing, splitting the data into training and testing sets, model selection, model training, and evaluation of model performance using metrics like accuracy, precision, and recall.
 
-##Methods Used: 
+## Methods Used: 
 The main algorithm used in this analysis was Logistic Regression, a popular classification algorithm for binary outcomes.
 
 ## Results
